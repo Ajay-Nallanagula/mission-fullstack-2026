@@ -4,3 +4,6 @@
 [submodule "nestjs-practice-demos"]
 	path = nestjs-practice-demos
 	url = https://github.com/Ajay-Nallanagula/nestjs-practice-demos.git
+[submodule "system-design-notes"]
+	path = system-design-notes
+	url = https://github.com/Ajay-Nallanagula/system-design-notes.git
