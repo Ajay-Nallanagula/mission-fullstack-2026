@@ -1,0 +1,6 @@
+[submodule "nextjs-practice-demos"]
+	path = nextjs-practice-demos
+	url = https://github.com/Ajay-Nallanagula/nextjs-practice-demos.git
+[submodule "nestjs-practice-demos"]
+	path = nestjs-practice-demos
+	url = https://github.com/Ajay-Nallanagula/nestjs-practice-demos.git
