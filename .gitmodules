@@ -7,3 +7,6 @@
 [submodule "system-design-notes"]
 	path = system-design-notes
 	url = https://github.com/Ajay-Nallanagula/system-design-notes.git
+[submodule "react-redux-scratch-setup"]
+	path = react-redux-scratch-setup
+	url = https://github.com/Ajay-Nallanagula/react-redux-scratch-setup.git
