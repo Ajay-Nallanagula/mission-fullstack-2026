@@ -1,11 +1,13 @@
 # Mission Fullstack
 
 ### Repository collection:
-https://github.com/Ajay-Nallanagula/mission-fullstack-2026.git
-- https://github.com/Ajay-Nallanagula/nextjs-practice-demos.git
-- https://github.com/Ajay-Nallanagula/nestjs-practice-demos.git
-- https://github.com/Ajay-Nallanagula/system-design-notes.git
 
+[Mission-Fullstack-2026](https://github.com/Ajay-Nallanagula/mission-fullstack-2026.git)
+
+- [nextjs-practice-demos.git](https://github.com/Ajay-Nallanagula/nextjs-practice-demos.git)
+- [nestjs-practice-demos.git](https://github.com/Ajay-Nallanagula/nestjs-practice-demos.git)
+- [system-design-notes.git](https://github.com/Ajay-Nallanagula/system-design-notes.git)
+- [react-redux-scratch-setup.git](https://github.com/Ajay-Nallanagula/react-redux-scratch-setup.git)
 
 To add `Repo_NestedA.1` and `Repo_NestedA.2` as submodules inside `RepoA` on GitHub, follow these steps:
 
@@ -14,17 +16,20 @@ To add `Repo_NestedA.1` and `Repo_NestedA.2` as submodules inside `RepoA` on Git
 ### **Step-by-Step Guide to Adding Submodules**
 
 1. **Clone RepoA (if you haven’t already):**
+
    ```bash
    git clone https://github.com/Ajay-Nallanagula/mission-fullstack-2026.git
    cd mission-fullstack-2026
    ```
 
 2. **Add Repo_NestedA.1 as a submodule:**
+
    ```bash
    git submodule add https://github.com/Ajay-Nallanagula/nextjs-practice-demos.git nextjs-practice-demos
    ```
 
 3. **Add Repo_NestedA.2 as a submodule:**
+
    ```bash
    git submodule add https://github.com/Ajay-Nallanagula/nestjs-practice-demos.git nestjs-practice-demos
    ```
@@ -39,6 +44,7 @@ To add `Repo_NestedA.1` and `Repo_NestedA.2` as submodules inside `RepoA` on Git
 ---
 
 ### **What Happens Next?**
+
 - The folders `nextjs-practice-demos` and `nestjs-practice-demos` will appear in `RepoA`, but they are linked to their own repositories.
 - When someone clones `RepoA`, they should run:
   ```bash
@@ -52,6 +58,7 @@ To add `Repo_NestedA.1` and `Repo_NestedA.2` as submodules inside `RepoA` on Git
 ---
 
 ### **Notes**
+
 - Submodules are pointers to specific commits in the child repositories.
 - You can update the submodule to the latest commit by running:
   ```bash
@@ -64,7 +71,3 @@ To add `Repo_NestedA.1` and `Repo_NestedA.2` as submodules inside `RepoA` on Git
   ```
 
 ---
-
-Let me know if you need help with any of these steps or want more details about managing submodules!
-
-
