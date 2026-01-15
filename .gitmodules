@@ -10,3 +10,6 @@
 [submodule "react-redux-scratch-setup"]
 	path = react-redux-scratch-setup
 	url = https://github.com/Ajay-Nallanagula/react-redux-scratch-setup.git
+[submodule "practice-react-redux-rtk"]
+	path = practice-react-redux-rtk
+	url = https://github.com/Ajay-Nallanagula/practice-react-redux-rtk.git
