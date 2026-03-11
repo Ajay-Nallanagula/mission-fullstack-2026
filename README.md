@@ -30,12 +30,14 @@ To add `Repo_NestedA.1` and `Repo_NestedA.2` as submodules inside `RepoA` on Git
 
 3. **Add Repo_NestedA.2 as a submodule:**
 
-   ```bash
-   git submodule add https://github.com/Ajay-Nallanagula/nestjs-practice-demos.git nestjs-practice-demos
+   ```bash at C:/Ajay_EPAM/PDP_PRACTICSE/mission-fullstack-2026>
+
+     git submodule add https://github.com/Ajay-Nallanagula/nestjs-practice-demos.git nestjs-practice-demos
    ```
 
-4. **Commit the changes:**
-   ```bash
+4. **Commit the changes: (**
+   ```bash at C:/Ajay_EPAM/PDP_PRACTICSE/mission-fullstack-2026>
+
    git add .gitmodules nextjs-practice-demos nestjs-practice-demos
    git commit -m "Add nextjs-practice-demos and nestjs-practice-demos as submodules"
    git push
