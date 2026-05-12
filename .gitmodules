@@ -13,3 +13,6 @@
 [submodule "practice-react-redux-rtk"]
 	path = practice-react-redux-rtk
 	url = https://github.com/Ajay-Nallanagula/practice-react-redux-rtk.git
+[submodule "ai-ml-chatgpt-2026"]
+	path = ai-ml-chatgpt-2026
+	url = https://github.com/Ajay-Nallanagula/ai-ml-chatgpt-2026.git
